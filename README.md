@@ -1,4 +1,4 @@
-<h1> End-to-End Chatbot with Streamlit and NGROK- fine-tuned with meta-llama/Llama-2-7b-chat-hf in Google Colab</h1>
+<h1> End-to-End Chatbot with Streamlit and NGROK- fine-tuned with custom data on meta-llama/Llama-2-7b-chat-hf  in Google Colab</h1>
 
 <h3>For fine-tuning the model and pushing it to Hugging Face</h3>
 <ul>
