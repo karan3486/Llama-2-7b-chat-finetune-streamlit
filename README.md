@@ -1,6 +1,6 @@
 <h1> End-to-End Chatbot with Streamlit and NGROK- fine-tuned with custom data on meta-llama/Llama-2-7b-chat-hf  in Google Colab</h1>
 
-<h3>For fine-tuning the model and pushing it to Hugging Face</h3>
+<h3>1-For fine-tuning the model and pushing it to Hugging Face</h3>
 <ul>
     <li><strong>Create a Hugging Face account</strong>:
         <ul>
@@ -20,8 +20,9 @@
         </ul>
     </li>
 </ul>
+<h2>Note:</h2> <p>If you don't want to fine-tune, use my model directly from hugging face <a href="https://huggingface.co/karanstha/Llama-2-7b-chat-finetune" target="_blank">https://huggingface.co/karanstha/Llama-2-7b-chat-finetune</a> and move to step 2</p>
 <hr>
-<h3>For creating an end-to-end application using Streamlit and Ngrok</h3>
+<h3>2-For creating an end-to-end application using Streamlit and Ngrok</h3>
 <ul>
     <li><strong>Create an Ngrok account</strong>:
         <ul>
@@ -29,7 +30,7 @@
             <li>Save the Ngrok authentication token for use in your application.</li>
         </ul>
     </li>
-    <li><strong>Generate Hugging Face Write API key</strong>:
+    <li><strong>Generate Hugging Face read API key</strong>:
         <ul>
             <li>Go to your Hugging Face account settings and generate the Write API key.</li>
         </ul>
